@@ -1,0 +1,19 @@
+{
+  "name": "iptv",
+  "version": "1.0.0",
+  "description": "Final Project for Advanced Networks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neville-li/iptv.git"
+  },
+  "author": "Neville Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neville-li/iptv/issues"
+  },
+  "homepage": "https://github.com/neville-li/iptv#readme"
+}
